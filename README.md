@@ -1,3 +1,0 @@
-# tusk
-
-hello public
